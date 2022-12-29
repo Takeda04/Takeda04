@@ -68,7 +68,7 @@ const ProductCarousel: FC<ProductCarouselProps> = ({
       {
         breakpoint: theme.breakpoints.values.sm,
         settings: {
-          slidesToShow: 1,
+          slidesToShow: 2,
           slidesToScroll: 1,
         },
       },
